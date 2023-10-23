@@ -1,0 +1,24 @@
+[24-Sep-2022 12:35:11 Europe/Berlin] PHP Warning:  include_once(comman/header.php): failed to open stream: No such file or directory in /home/konzepts/public_html/404.php on line 1
+[24-Sep-2022 12:35:11 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'comman/header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/konzepts/public_html/404.php on line 1
+[24-Sep-2022 12:35:11 Europe/Berlin] PHP Warning:  include_once(comman/free_quote.php): failed to open stream: No such file or directory in /home/konzepts/public_html/404.php on line 147
+[24-Sep-2022 12:35:11 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'comman/free_quote.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/konzepts/public_html/404.php on line 147
+[24-Sep-2022 12:35:11 Europe/Berlin] PHP Warning:  include_once(comman/footer.php): failed to open stream: No such file or directory in /home/konzepts/public_html/404.php on line 149
+[24-Sep-2022 12:35:11 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'comman/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/konzepts/public_html/404.php on line 149
+[09-Nov-2022 07:49:52 UTC] PHP Notice:  Undefined index: address in /home/konzepts/public_html/ajaxjs.php on line 5
+[23-Nov-2022 11:19:55 UTC] PHP Notice:  Undefined index: name in /home/konzepts/public_html/ajaxjs.php on line 3
+[23-Nov-2022 11:19:55 UTC] PHP Notice:  Undefined index: email in /home/konzepts/public_html/ajaxjs.php on line 4
+[23-Nov-2022 11:19:55 UTC] PHP Notice:  Undefined index: address in /home/konzepts/public_html/ajaxjs.php on line 5
+[23-Nov-2022 11:19:55 UTC] PHP Notice:  Undefined index: contact in /home/konzepts/public_html/ajaxjs.php on line 6
+[23-Nov-2022 11:20:06 UTC] PHP Notice:  Undefined index: name in /home/konzepts/public_html/getinTouch.php on line 4
+[23-Nov-2022 11:20:06 UTC] PHP Notice:  Undefined index: mobile in /home/konzepts/public_html/getinTouch.php on line 5
+[23-Nov-2022 11:20:06 UTC] PHP Notice:  Undefined index: email in /home/konzepts/public_html/getinTouch.php on line 6
+[23-Nov-2022 11:20:06 UTC] PHP Notice:  Undefined index: reqDes in /home/konzepts/public_html/getinTouch.php on line 7
+[23-Nov-2022 11:27:09 UTC] PHP Notice:  Undefined index: name in /home/konzepts/public_html/process.php on line 4
+[23-Nov-2022 11:27:09 UTC] PHP Notice:  Undefined index: mobile in /home/konzepts/public_html/process.php on line 5
+[23-Nov-2022 11:27:09 UTC] PHP Notice:  Undefined index: email in /home/konzepts/public_html/process.php on line 6
+[23-Nov-2022 11:27:09 UTC] PHP Notice:  Undefined index: reqDes in /home/konzepts/public_html/process.php on line 7
+[16-Dec-2022 10:32:26 UTC] PHP Notice:  Undefined index: address in /home/konzepts/public_html/ajaxjs.php on line 5
+[16-Dec-2022 10:49:35 UTC] PHP Notice:  Undefined index: address in /home/konzepts/public_html/ajaxjs.php on line 5
+[05-Jan-2023 00:41:14 UTC] PHP Notice:  Undefined index: address in /home/konzepts/public_html/ajaxjs.php on line 5
+[17-Jan-2023 16:27:32 UTC] PHP Notice:  Undefined index: address in /home/konzepts/public_html/ajaxjs.php on line 5
+[24-Feb-2023 13:21:48 UTC] PHP Notice:  Undefined index: address in /home/konzepts/public_html/ajaxjs.php on line 5
